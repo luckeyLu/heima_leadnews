@@ -10,5 +10,5 @@ public interface BehaviorControllerApi {
      * @param dto
      * @return
      */
-    ResponseResult saveShowBehavior(ShowBehaviorDto dto);
+    ResponseResult<Void> saveShowBehavior(ShowBehaviorDto dto);
 }

@@ -28,7 +28,7 @@ public class AppShowBehaviorServiceImpl implements AppShowBehaviorService {
     private ApShowBehaviorMapper apShowBehaviorMapper;
 
     @Override
-    public ResponseResult saveShowBehavior(ShowBehaviorDto dto) {
+    public ResponseResult<Void> saveShowBehavior(ShowBehaviorDto dto) {
         //获取用户信息，获取设备id
         ApUser user = AppThreadLocalUtils.getUser();
         //根据当前的用户信息或设备id查询行为实体 ap_behavior_entry

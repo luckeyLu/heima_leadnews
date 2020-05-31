@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews.iml" filepath="$PROJECT_DIR$/heima-leadnews.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-apis/heima-leadnews-apis.iml" filepath="$PROJECT_DIR$/heima-leadnews-apis/heima-leadnews-apis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-article/heima-leadnews-article.iml" filepath="$PROJECT_DIR$/heima-leadnews-article/heima-leadnews-article.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" filepath="$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" filepath="$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" filepath="$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews.iml" filepath="$PROJECT_DIR$/heima-leadnews.iml" group="heima-leadnews and modules" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-apis/heima-leadnews-apis.iml" filepath="$PROJECT_DIR$/heima-leadnews-apis/heima-leadnews-apis.iml" group="heima-leadnews and modules" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-article/heima-leadnews-article.iml" filepath="$PROJECT_DIR$/heima-leadnews-article/heima-leadnews-article.iml" group="heima-leadnews and modules" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-behavior/heima-leadnews-behavior.iml" filepath="$PROJECT_DIR$/heima-leadnews-behavior/heima-leadnews-behavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" filepath="$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" group="heima-leadnews and modules" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" filepath="$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" group="heima-leadnews and modules" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" filepath="$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" group="heima-leadnews and modules" />
     </modules>
   </component>
 </project>

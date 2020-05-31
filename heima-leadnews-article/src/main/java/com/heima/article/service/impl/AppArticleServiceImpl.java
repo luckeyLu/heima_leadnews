@@ -24,7 +24,7 @@ public class AppArticleServiceImpl implements AppArticleService {
     private static final short MAX_PAGE_SIZE = 50;
 
     @Override
-    public ResponseResult load(ArticleHomeDto dto, Short type) {
+    public ResponseResult<List<ApArticle>> load(ArticleHomeDto dto, Short type) {
         //参数校验
         if(dto ==null ){
             dto = new ArticleHomeDto();
